@@ -1,0 +1,10 @@
+# Hybrid Markov Logic Rules for Embedding Verification
+
+## Citation Category Agreement Rule
+2.0 Category(p1, c) ^ Cites(p1, p2) => Category(p2, c)
+
+## Co-Citation Agreement Rule
+1.5 Cites(p3, p1) ^ Cites(p3, p2) => SameCategory(p1, p2)
+
+## Embedding Similarity Rule
+3.0 SimilarEmbedding(p1, p2) => SameCategory(p1, p2)

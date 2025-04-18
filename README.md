@@ -69,4 +69,4 @@ The output visualizations show:
 
 ## Contact
 
-For questions or feedback, please contact: zbairali7893@gmail.com
+For questions or feedback, please contact: zubairali7893@gmail.com
